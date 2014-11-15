@@ -2,3 +2,7 @@ What happens when you initialize a repository?  Why do you need to do it?
 
 Initialization creates the metadata associated with Git version control, and without this step Git won't be tracking changes to files in this repository (directory).
 
+How is the staging area different form the working directory and the repository?  What value to think it offers?
+
+The staging area contains the files that you want to commit, which can be a different list of files than the set of all files that have been changed in a repository.  This allows the user to control which changes are commited, but this can also be dangerous, as a checkout from a commit may not contain all of the required changes for a project to operate.
+
