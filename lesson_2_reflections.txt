@@ -1,0 +1,4 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+Initialization creates the metadata associated with Git version control, and without this step Git won't be tracking changes to files in this repository (directory).
+
