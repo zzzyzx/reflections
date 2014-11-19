@@ -24,7 +24,7 @@ Merging branches creates a single branch from multiple branches, where the merge
 
 What are the pros and cons of Git's automatic merging vs. always doing merges automatically?
 
-It will save a lot of time, especially since most merges should be successful.
+It will save a lot of time, especially since most merges should be successful; however, there is risk that Git won't be able to (or might incorrectly) merge changes.
 
 
 
