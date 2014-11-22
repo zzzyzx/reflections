@@ -13,3 +13,7 @@ A fork is a copy of a repository from a remote server to a remote server, a clon
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This allows for differences between remote and local commits to be analyzed.
+
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+
+All intermediate files would need to be saved with different file names, and different collaborators would need manually compare all lines of code for differences when we decided to incorporate all of our chages.  Everything would get harder!
